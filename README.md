@@ -1,5 +1,7 @@
 # 📊 Análisis de Inmuebles en CDMX con Pandas
 
+[📄 **English Version (README_en.md)**](./README_en.md)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.6-green)  
 
 Este proyecto analiza datos de alquileres de inmuebles en **Ciudad de México** utilizando **Python** y **Pandas**, con el objetivo de preparar los datos para equipos de **Machine Learning** y **Desarrollo**.
